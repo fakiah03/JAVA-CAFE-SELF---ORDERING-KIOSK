@@ -1,4 +1,4 @@
-# ☕ Java Cafe Ordering System (SSAMS)
+# ☕ JAVA CAFE SELF - ORDERING KIOSK
 
 ## 📌 1.0 Introduction
 **Java Cafe** is a popular aesthetic cafe known for its delicious menu. However, high foot traffic led to long waiting times and manual order errors. To solve this, we developed a self-service **Ordering System** that allows customers to browse the menu and order independently. This enables staff to focus on food preparation and ensures a smoother workflow.
