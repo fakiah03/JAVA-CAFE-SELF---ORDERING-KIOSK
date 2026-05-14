@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MenuItem
+comment1.params=menu\ price
+comment1.target=MenuItem(java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
